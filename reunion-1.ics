@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HAC en red//Reunion 1//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20261203T180000Z-reunion1@hac.red
+DTSTAMP:20261024T150000Z
+DTSTART:20261203T180000Z
+DTEND:20261203T200000Z
+SUMMARY:1ª reunión HAC en red: ¿Cómo podemos ayudar?
+DESCRIPTION:1ª reunión del colectivo Hackers Activistas de Cantabria (HAC en red) con el debate abierto: "¿Cómo podemos ayudar?".\n\nContacto: contacto@hac.red\nWeb: https://hac.red
+LOCATION:CSA La Libre (Rampa de Sotileza, Santander)
+ORGANIZER;CN=HAC en red:mailto:contacto@hac.red
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
