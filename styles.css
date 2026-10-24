@@ -82,7 +82,7 @@ a:hover, a:focus-visible {
 
 /* Headings with Player Sans */
 h1, h2, h3, h4, .brand-title, .pixel-text {
-  font-family: var(--font-title);
+  font-family: var(--font-body);
   letter-spacing: 0.05em;
   font-weight: normal;
   text-transform: none;
@@ -140,13 +140,12 @@ h1, h2, h3, h4, .brand-title, .pixel-text {
 
 .brand-title {
   font-size: 1.5rem;
-  font-weight: bold;
   letter-spacing: 0.08em;
 }
 
 .brand-subtitle {
   font-size: 0.82rem;
-  font-family: var(--font-body);
+  font-family: var(--font-title);
   color: var(--color-text-dim);
 }
 
@@ -713,4 +712,3 @@ main {
     align-items: center;
   }
 }
-
