@@ -81,7 +81,7 @@ a:hover, a:focus-visible {
 }
 
 /* Headings with Player Sans */
-h1, h2, h3, h4, .brand-title, .pixel-text {
+h1, h2, h3, h4, .pixel-text {
   font-family: var(--font-body);
   letter-spacing: 0.05em;
   font-weight: normal;
@@ -123,8 +123,8 @@ h1, h2, h3, h4, .brand-title, .pixel-text {
 }
 
 .brand-logo {
-  width: 52px;
-  height: 52px;
+  width: 128px;
+  height: 128px;
   object-fit: contain;
   transition: transform 0.2s ease;
 }
@@ -140,6 +140,7 @@ h1, h2, h3, h4, .brand-title, .pixel-text {
 
 .brand-title {
   font-size: 1.5rem;
+  font-family: var(--font-title);
   letter-spacing: 0.08em;
 }
 
